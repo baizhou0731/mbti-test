@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MBTI人格测试</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- 欢迎页面 -->
+        <div id="welcomePage" class="page active">
+            <div class="welcome-content">
+                <h1>MBTI人格测试</h1>
+                <p class="welcome-desc">发现你独特的人格类型</p>
+                <div class="welcome-info">
+                    <p>Myers-Briggs类型指标(MBTI)是一种应用广泛的人格评估工具。通过16道科学设计的问题，帮助你了解自己的人格类型。</p>
+                    <p class="test-time">预计时间：5-10分钟</p>
+                </div>
+                <button class="btn btn-primary" onclick="startTest()">开始测试</button>
+            </div>
+        </div>
+
+        <!-- 测试页面 -->
+        <div id="testPage" class="page">
+            <div class="test-container">
+                <div class="progress-bar">
+                    <div id="progressFill" class="progress-fill"></div>
+                </div>
+                <div class="progress-text">
+                    <span id="currentQuestion">1</span> / <span id="totalQuestions">16</span>
+                </div>
+
+                <div id="questionContainer" class="question-container">
+                    <h2 id="questionText"></h2>
+                    <div id="optionsContainer" class="options-container"></div>
+                </div>
+
+                <div class="button-group">
+                    <button class="btn btn-secondary" onclick="previousQuestion()" id="prevBtn" style="display:none;">上一题</button>
+                    <button class="btn btn-primary" onclick="nextQuestion()" id="nextBtn">下一题</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- 结果页面 -->
+        <div id="resultPage" class="page">
+            <div class="result-container">
+                <h1 id="typeTitle" class="type-title"></h1>
+                <div class="type-badge" id="typeBadge"></div>
+                
+                <div class="result-section">
+                    <h3>人格特征</h3>
+                    <p id="typeDesc"></p>
+                </div>
+
+                <div class="result-section">
+                    <h3>优势</h3>
+                    <ul id="strengths" class="list"></ul>
+                </div>
+
+                <div class="result-section">
+                    <h3>劣势</h3>
+                    <ul id="weaknesses" class="list"></ul>
+                </div>
+
+                <div class="result-section">
+                    <h3>职业建议</h3>
+                    <ul id="careers" class="list"></ul>
+                </div>
+
+                <div class="result-section">
+                    <h3>与其他类型的关系</h3>
+                    <p id="relationships"></p>
+                </div>
+
+                <div class="button-group">
+                    <button class="btn btn-primary" onclick="shareResult()">分享结果</button>
+                    <button class="btn btn-secondary" onclick="retakeTest()">重新测试</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="questions.js"></script>
+    <script src="types.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
