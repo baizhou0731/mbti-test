@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Deer profile">
+  <rect width="160" height="160" rx="28" fill="#f2eadf"/>
+  <circle cx="80" cy="94" r="36" fill="#b78b64"/>
+  <path d="M58 54 48 28M58 54 38 38M58 54 62 26" stroke="#8a6548" stroke-width="4" stroke-linecap="round"/>
+  <path d="M102 54 112 28M102 54 122 38M102 54 98 26" stroke="#8a6548" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="68" cy="90" r="5" fill="#3a291d"/>
+  <circle cx="92" cy="90" r="5" fill="#3a291d"/>
+  <ellipse cx="80" cy="104" rx="12" ry="10" fill="#fff6ee"/>
+  <circle cx="80" cy="102" r="4" fill="#4c3527"/>
+</svg>

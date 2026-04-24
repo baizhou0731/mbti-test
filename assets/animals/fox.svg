@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Fox profile">
+  <rect width="160" height="160" rx="28" fill="#f4e5da"/>
+  <circle cx="80" cy="90" r="38" fill="#c6784f"/>
+  <path d="M46 64 60 28l18 26" fill="#e5bca0"/>
+  <path d="M114 64 100 28 82 54" fill="#e5bca0"/>
+  <circle cx="67" cy="88" r="5" fill="#2f221d"/>
+  <circle cx="93" cy="88" r="5" fill="#2f221d"/>
+  <path d="M80 96c7 0 12 5 12 10s-5 12-12 12-12-7-12-12 5-10 12-10Z" fill="#fff6ef"/>
+  <circle cx="80" cy="102" r="4" fill="#4a2c20"/>
+</svg>

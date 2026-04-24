@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Seal profile">
+  <rect width="160" height="160" rx="28" fill="#e4eef1"/>
+  <ellipse cx="80" cy="92" rx="42" ry="34" fill="#7d96a1"/>
+  <ellipse cx="80" cy="104" rx="20" ry="14" fill="#dbe7ea"/>
+  <circle cx="68" cy="88" r="4.5" fill="#1f2a31"/>
+  <circle cx="92" cy="88" r="4.5" fill="#1f2a31"/>
+  <circle cx="80" cy="98" r="4" fill="#24333b"/>
+  <path d="M54 100h20M86 100h20" stroke="#24333b" stroke-width="3" stroke-linecap="round"/>
+</svg>

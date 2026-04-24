@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Lynx profile">
+  <rect width="160" height="160" rx="28" fill="#ede4da"/>
+  <circle cx="80" cy="92" r="38" fill="#b48456"/>
+  <path d="M50 64 64 28l12 30" fill="#d5a77c"/>
+  <path d="M110 64 96 28 84 58" fill="#d5a77c"/>
+  <path d="M60 34 54 20M100 34l6-14" stroke="#4d3727" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="68" cy="88" r="5" fill="#2f2218"/>
+  <circle cx="92" cy="88" r="5" fill="#2f2218"/>
+  <path d="M80 98c7 0 10 4 10 8 0 6-5 10-10 10s-10-4-10-10c0-4 3-8 10-8Z" fill="#f9f0e7"/>
+</svg>

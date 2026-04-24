@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Raven profile">
+  <rect width="160" height="160" rx="28" fill="#e8e3ea"/>
+  <circle cx="80" cy="88" r="38" fill="#474252"/>
+  <path d="M54 58 80 24l26 34" fill="#696376"/>
+  <path d="M64 114h32l-16 18Z" fill="#c1b6c7"/>
+  <circle cx="68" cy="86" r="5" fill="#faf7ff"/>
+  <circle cx="92" cy="86" r="5" fill="#faf7ff"/>
+  <path d="M80 96 92 104 80 114 68 104Z" fill="#d7a068"/>
+</svg>

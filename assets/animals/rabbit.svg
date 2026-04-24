@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Rabbit profile">
+  <rect width="160" height="160" rx="28" fill="#f5f1f0"/>
+  <ellipse cx="66" cy="44" rx="12" ry="28" fill="#efe0df"/>
+  <ellipse cx="94" cy="44" rx="12" ry="28" fill="#efe0df"/>
+  <ellipse cx="66" cy="44" rx="6" ry="18" fill="#f4c7cf"/>
+  <ellipse cx="94" cy="44" rx="6" ry="18" fill="#f4c7cf"/>
+  <circle cx="80" cy="92" r="36" fill="#ffffff"/>
+  <circle cx="68" cy="88" r="5" fill="#665a59"/>
+  <circle cx="92" cy="88" r="5" fill="#665a59"/>
+  <circle cx="80" cy="102" r="5" fill="#e497a5"/>
+</svg>

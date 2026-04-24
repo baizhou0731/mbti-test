@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Raccoon profile">
+  <rect width="160" height="160" rx="28" fill="#ebedf0"/>
+  <circle cx="80" cy="92" r="38" fill="#8d949f"/>
+  <path d="M50 66 60 34l16 24" fill="#b1b6bf"/>
+  <path d="M110 66 100 34 84 58" fill="#b1b6bf"/>
+  <path d="M50 88c10-12 50-12 60 0-3 14-18 22-30 22s-27-8-30-22Z" fill="#434750"/>
+  <circle cx="68" cy="90" r="5" fill="#fbfcfd"/>
+  <circle cx="92" cy="90" r="5" fill="#fbfcfd"/>
+  <ellipse cx="80" cy="106" rx="10" ry="8" fill="#dde2e7"/>
+  <circle cx="80" cy="102" r="4" fill="#2e3138"/>
+</svg>
